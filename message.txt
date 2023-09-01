@@ -3,4 +3,8 @@
 
 This is the sixth commit.
 You start here! Follow the instructions provided to complete this task!
+<<<<<<< HEAD
 
+=======
+here Akshil has made changes
+>>>>>>> 3ceb92c (commit 9)
